@@ -1,0 +1,16 @@
+# Archivos
+*.txt
+log*.*
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Carpetasgit stat
+node_modules/
+temp/
+tmp/
+dump/
+logs/
+blame/
+cache/
